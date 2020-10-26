@@ -1,0 +1,28 @@
+
+add:
+    name : A
+    speed: 100
+add:
+    name: B
+    speed: 50
+add:
+    name : C
+    speed : 20
+add:
+    name: D
+    speed: 10
+bridge: 100
+add:
+    name : E
+    speed : 2.5
+bridge: 250
+add:
+    name: F
+    speed: 25
+add:
+    name: G
+    speed: 15
+bridge: 150
+    
+    
+    
