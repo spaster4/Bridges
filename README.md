@@ -4,7 +4,7 @@ Author: Stevenn Paster
 
 Problem Statement
 -----------------
-A teamh of sojourners are hiking  through a forest at night. The team encounters a series of narrow bridges along the way.  At each bridge they may meet additional sojouners who need their help to cross the bridge. The narrow bridge can only hold two people at a time. They have one torch and because it's night, the torch has to be used when crossing the bridge. Each sojurner can cross the bridge at different speeds. When two sojourners cross the bridge together, they must move at the slower person's pace.
+A team of sojourners are hiking  through a forest at night. The team encounters a series of narrow bridges along the way.  At each bridge they may meet additional sojouners who need their help to cross the bridge. The narrow bridge can only hold two people at a time. They have one torch and because it's night, the torch has to be used when crossing the bridge. Each sojurner can cross the bridge at different speeds. When two sojourners cross the bridge together, they must move at the slower person's pace.
 
 Determine the fastest time that the hikers can cross the each bridge and the total time for all crossings. The input to the program will be a yaml file that describes the speeds of each person, the bridges encountered, their length, and the additional hikers encountered along the way. Your solution should assume any number of people and bridges can be provided as inputs.
 
